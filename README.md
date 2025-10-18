@@ -7,9 +7,9 @@ GreenCarbon is a decentralized carbon credit trading platform built using **Soli
 ## 📜 Live Deployment
 
 * **Blockchain:** Flow EVM Testnet
-* **Deployed Contract Address:** [`0x81F3284Cac78049924EdcfD516D6e3BE5615c978`](https://explorer.coredao.org/address/0x81F3284Cac78049924EdcfD516D6e3BE5615c978)
-* **Transaction Hash:** [`0x4fd983b4d27353bcd3890593125259513de395ff40233b05cbd043a4622164eb`](https://explorer.coredao.org/tx/0x4fd983b4d27353bcd3890593125259513de395ff40233b05cbd043a4622164eb)
-* evm-testnet :-[https://evm-testnet.flowscan.io/address/0x81F3284Cac78049924EdcfD516D6e3BE5615c978]
+* **Deployed Contract Address:** [0x81F3284Cac78049924EdcfD516D6e3BE5615c978]
+* **Transaction Hash:** [0x4fd983b4d27353bcd3890593125259513de395ff40233b05cbd043a4622164eb]
+* Deploy on flow testnet :-[https://evm-testnet.flowscan.io/address/0x81F3284Cac78049924EdcfD516D6e3BE5615c978]
 
 ✅ Successfully created on **Flow EVM Testnet — Verified & Confirmed.**
 
